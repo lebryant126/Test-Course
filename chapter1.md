@@ -2,7 +2,7 @@
 title       : Chapter 1
 description : This is a first attempt
 attachments :
-  slides_link : http://webspace.ship.edu/lebryant/mathcircle/
+  slides_link : http://webspace.ship.edu/lebryant/mathcircle/Spring2016wrapup.pdf
 
 --- type:VideoExercise lang:r xp:50 skills:1 key:302a2b5945
 ## Analyze movie ratings
