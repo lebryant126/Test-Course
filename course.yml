@@ -1,7 +1,7 @@
-title            : Template R DataCamp Course
-author_field     : lebryant126
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-author_bio       : lebryant126 is an awesome DataCamp course creator.<br>You can tell something about yourself <strong>here</strong>.
-university       : DataCamp
+title            : Test Course
+author_field     : Dr. Bryant
+description      : This is a test to see how things work
+author_bio       : Dr. Bryant is trying this out.<br>We will see.
+university       : SU
 difficulty_level : 2
 time_needed      : 1 hour
