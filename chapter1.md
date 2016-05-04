@@ -1,8 +1,8 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Chapter 1
+description : This is a first attempt
 attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+  slides_link : http://webspace.ship.edu/lebryant/mathcircle/
 
 --- type:VideoExercise lang:r xp:50 skills:1 key:302a2b5945
 ## Analyze movie ratings
